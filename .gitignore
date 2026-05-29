@@ -1,1 +1,9 @@
 .DS_Store
+*.current.js
+*.updated.js
+*.generated.html
+published-*.html
+workflow*.json
+webhook*.json
+executions*.json
+scripts/
