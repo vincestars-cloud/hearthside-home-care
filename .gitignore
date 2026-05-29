@@ -7,3 +7,4 @@ workflow*.json
 webhook*.json
 executions*.json
 scripts/
+playwright-*.png
